@@ -1,0 +1,1 @@
+This is an ultra simple iOS project using Google's old Ajax API to make a search call
